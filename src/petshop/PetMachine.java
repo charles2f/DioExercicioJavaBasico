@@ -1,3 +1,5 @@
+package petshop;
+
 public class PetMachine {
 
     static String getName;

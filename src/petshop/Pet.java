@@ -1,3 +1,5 @@
+package petshop;
+
 public class Pet {
 
     private final String name;

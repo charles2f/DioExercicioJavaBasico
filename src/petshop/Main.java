@@ -1,3 +1,4 @@
+package petshop;
 
 import java.util.Scanner;
 
